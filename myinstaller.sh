@@ -7,7 +7,7 @@
 
 PLUGIN_NAME="EmuInstaller"
 PKG_BASE="enigma2-plugin-extensions-emuinstaller"
-VERSION="1.4.0"
+VERSION="1.5.0"
 USERNAME="popking159"
 REPO="emuinstaller"
 ARCH="all"

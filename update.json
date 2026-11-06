@@ -1,1 +1,5 @@
-
+{
+    "version": "1.5",
+    "changelog": "- دعم free servers\n- الاصدار الثانى",
+    "script_url": "https://raw.githubusercontent.com/popking159/EmuInstaller/main/myinstaller.sh"
+}
